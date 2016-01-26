@@ -1,0 +1,1 @@
+# SHORTY-Summarization-and-PPT-PDF-Generation-Tool
